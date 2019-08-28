@@ -1,0 +1,48 @@
+{
+  "trainerusers": [
+    {
+      "firstName": "lisa",
+      "lastName": "simpson",
+      "email": "lisa@simpson.com",
+      "password": "books",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "bart",
+      "lastName": "simpson",
+      "email": "bart@simpson.com",
+      "password": "jokes",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "name": "Maggie Simpson",
+      "email": "maggie@simpson.com",
+      "password": "soother",
+      "address": "3 Springfield Ave",
+      "gender": "female",
+      "height": "0.5",
+      "startingweight": "20",
+      "id": "96d0d7c6-0b59-4d62-87c7-41962c103efe"
+    },
+    {
+      "name": "Ian Rush",
+      "email": "ian.rush@gmail.com",
+      "password": "goals",
+      "address": "Anfield",
+      "gender": "Male",
+      "height": "1.01",
+      "startingweight": "70",
+      "id": "85799422-2eaf-40e3-93b7-b664df940f90"
+    },
+    {
+      "name": "Paul Holohan",
+      "email": "Holohan.Paul@gmail.com",
+      "password": "hello",
+      "address": "6 Oak Drive, Lacken Wood",
+      "gender": "male",
+      "height": "1.05",
+      "startingweight": "100",
+      "id": "b5c281cb-3506-488e-9c28-01bcd204c3a7"
+    }
+  ]
+}

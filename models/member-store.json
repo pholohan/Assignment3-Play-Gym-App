@@ -1,0 +1,118 @@
+{
+  "memberCollection": [
+    {
+      "id": "01",
+      "name": "Homer Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "address": "1 Springfield, USA",
+      "gender": "male",
+      "height": "1.00",
+      "startingweight": "50",
+      "assessment": [
+        {
+          "id": "03",
+          "weight": 80,
+          "chest": 40,
+          "thigh": 22,
+          "upperarm": 12,
+          "waist": 32,
+          "hips": 33,
+          "comment": "  Well Done"
+        },
+        {
+          "id": "99a5d391-0517-480d-a477-a0db2416dd7d",
+          "weight": "70",
+          "chest": "34",
+          "thigh": "20",
+          "upperarm": "12",
+          "waist": "32",
+          "hips": "30",
+          "comment": "  Super"
+        },
+        {
+          "id": "eb4ed4be-d068-4d54-934e-3b022a9c0bc9",
+          "weight": "95",
+          "chest": "34",
+          "thigh": "20",
+          "upperarm": "23",
+          "waist": "32",
+          "hips": "30"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Marge Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret1",
+      "address": "2 Springfield, USA",
+      "gender": "female",
+      "height": "1.2",
+      "startingweight": "50",
+      "assessment": [
+        {
+          "id": "05",
+          "weight": 70,
+          "chest": 30,
+          "thigh": 12,
+          "upperarm": 10,
+          "waist": 22,
+          "hips": 23,
+          "comment": "  Well Done Marge"
+        },
+        {
+          "id": "06",
+          "weight": 68,
+          "chest": 28,
+          "thigh": 13,
+          "upperarm": 11,
+          "waist": 31,
+          "hips": 29,
+          "comment": "  Better Next Week"
+        },
+        {
+          "id": "99f4c3e7-d0d2-4a0a-8cc3-345adb2c7304",
+          "weight": "95",
+          "chest": "20",
+          "thigh": "30",
+          "upperarm": "12",
+          "waist": "32",
+          "hips": "60",
+          "comment": "  Great Work"
+        },
+        {
+          "id": "59917cdd-0966-4eb8-9e58-f528386f8fce",
+          "weight": "60",
+          "chest": "34",
+          "thigh": "25",
+          "upperarm": "23",
+          "waist": "32",
+          "hips": "33"
+        }
+      ]
+    },
+    {
+      "id": "f660bf0c-c9a6-4017-b799-042bccac67ed",
+      "name": "Paul Holohan",
+      "email": "Holohan.Paul@gmail.com",
+      "password": "hello",
+      "address": "6 Oak Drive, Lacken Wood",
+      "gender": "male",
+      "height": "100",
+      "startingweight": "70",
+      "assessment": [
+        {
+          "id": "f6c2088d-a3fc-4ebc-ad14-41c6c722bd48",
+          "weight": "20",
+          "chest": "40",
+          "thigh": "60",
+          "upperarm": "80",
+          "waist": "100",
+          "hips": "120",
+          "comment": ""
+        }
+      ]
+    }
+  ]
+}

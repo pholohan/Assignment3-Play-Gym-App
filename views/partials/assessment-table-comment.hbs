@@ -1,0 +1,24 @@
+{{#each member.assessment}}
+  <table class="ui celled table">
+    <thead>
+      {{> assessment-header}}
+    </thead>
+    <tbody>
+          <tr>
+            <td> {{weight}}   </td><td> {{chest}} </td><td> {{thigh}} </td>
+            <td> {{upperarm}} </td><td> {{waist}} </td><td> {{hips}}  </td>
+            <td> {{comment}} </td>
+            <td><a href="/member/{{../member.id}}/deleteassessment/{{id}}" class="ui icon button"><i class = "icon trash"></i></a></td>
+        </tr>
+    </tbody>
+  </table>
+  <h4 class="ui headder">
+    Comments
+  </h4>
+  <form class="ui form" action="/member/{{../member.id}}/editcomment/{{id}}" method="POST">
+    <div class="ui field">
+      <textarea rows="2" name="comment"> {{comment}} </textarea>
+    </div>
+    <button class="ui blue submit button"> Update </button>
+  </form>
+{{/each}}
